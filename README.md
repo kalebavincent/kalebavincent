@@ -1,59 +1,81 @@
-<h1 align="center">👋 Bienvenue sur mon profil GitHub !</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Je+suis+Kaleb+Vincent;Développeur+passionné;Amoureux+des+technologies;Toujours+en+apprentissage" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=DC143C&center=true&lines=Welcome+to+My+GitHub+Profile;Exploring+the+world+of+code;Sharing+my+projects+and+learnings;Enjoy+your+stay!&width=600&height=180">
 </p>
 
+<h2 align="center">
+    ──「 HYOSH CODER 」──
+</h2>
+
+<div style="display: flex;">
+  <div style="flex: 1;">
+
+# Hi there! 👋
+
+Welcome to my GitHub profile! I'm a passionate developer who loves creating impactful and innovative projects. 
+I enjoy exploring new technologies and sharing my learnings with the community. 😊
+
+Here's a bit more about me:
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kalebavincent&label=Profile%20views&color=0e75b6&style=flat" alt="kalebavincent" />
+<img src="https://graph.org/file/fdc47d088a48eb981c713.jpg" alt="Kaleb Vincent">
 </p>
 
-<h2 align="center">🛠️ Mes compétences</h2>
+<br>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</p>
+## 🌟 About Me
 
-<h2 align="center">🚀 Mes projets</h2>
+- 💻 I specialize in **Python** and **JavaScript**, but I enjoy exploring other technologies and languages as well.
+- 🚀 I'm always eager to learn new things and take on new challenges.
+- 🎓 I believe in the power of knowledge-sharing and open source.
 
-<p align="center">
-  <a href="https://github.com/kalebavincent/Projet1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kalebavincent&repo=Projet1&theme=dark" alt="Projet 1" />
-  </a>
-  <a href="https://github.com/kalebavincent/Projet2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kalebavincent&repo=Projet2&theme=dark" alt="Projet 2" />
-  </a>
-</p>
+## 🛠️ Tech Stack
 
-<h2 align="center">📈 Mes statistiques GitHub</h2>
+- **Languages:** Python, JavaScript, HTML, CSS
+- **Frameworks:** Django, Flask, React
+- **Tools:** Git, Docker, VS Code
+- **Databases:** PostgreSQL, MongoDB
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kalebavincent&show_icons=true&theme=dark&hide_border=true" alt="Statistiques GitHub" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kalebavincent&theme=dark&hide_border=true" alt="Streak Stats" />
-</p>
+## Here are some of the projects I've worked on
 
-<h2 align="center">📫 Contactez-moi</h2>
+- ❤️ [Auto renamer bot](https://github.com/kalebavincent/Projet1) - A ....
+- 📽️ [Renamer bot](https://github.com/kalebavincent/Projet2) - A ....
+- 📁 [Auto filter bot + Extra Mode](https://github.com/kalebavincent/Projet3) - A ....
 
-<p align="center">
-  <a href="https://linkedin.com/in/kalebavincent" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:kalebavincent@egmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+  _and more!_
 
-<h2 align="center">🌟 Un petit mot</h2>
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=kalebavincent)](https://github.com/kalebavincent/github-readme-stats)
 
-<p align="center">
-  <em>Le code, c'est comme l'art. Chaque ligne est une expression de créativité et de logique. N'arrêtez jamais d'apprendre et de créer ! 🚀</em>
-</p>
+---
 
-<p align="center">
-  <img src="https://github.com/kalebavincent/kalebavincent/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
+## Here is tech stacks I know and use 🛠
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalebavincent&langs_count=10" align="right" width="300px">
+
+![Python](https://img.shields.io/badge/-Python-2f1a47?style=flat&logo=python)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-2f1a47?style=flat&logo=javascript)&nbsp;
+
+![HTML5](https://img.shields.io/badge/-HTML5-2f1a47?style=flat&logo=html5)&nbsp;  
+![CSS3](https://img.shields.io/badge/-CSS3-2f1a47?style=flat&logo=css3&logoColor=039be5)&nbsp;
+![React](https://img.shields.io/badge/-React-2f1a47?style=flat&logo=react)&nbsp;
+![Node.JS](https://img.shields.io/badge/-Node.JS-2f1a47?style=flat&logo=node.js)&nbsp;
+
+![Git](https://img.shields.io/badge/-Git-2f1a47?style=flat&logo=git)&nbsp;
+![Github](https://img.shields.io/badge/-Github-2f1a47?style=flat&logo=github)&nbsp;
+
+![Profile counter](https://moe-counter.glitch.me/get/@kalebavincent)
+
+### 🤝 Collaboration
+
+I enjoy collaborating with other developers and learning from their experiences. If you have any exciting projects or ideas, feel free to reach out. Let's create something awesome together!
+
+<br>
+
+### 📫 Contact Me
+
+You can connect with me on various platforms:
+
+- [![telegram](https://img.shields.io/badge/Kaleb-Telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/tonpseudo)
+- [![gmail](https://img.shields.io/badge/Kaleb-Gmail-red?style=for-the-badge&logo=gmail)](mailto:tonemail@example.com)
+
+<br>
+
+Thanks for visiting my profile! Feel free to explore my repositories, and don't forget to leave a star ⭐️ if you find something interesting!
