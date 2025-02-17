@@ -16,7 +16,7 @@ I enjoy exploring new technologies and sharing my learnings with the community. 
 
 Here's a bit more about me:
 <p align="center">
-<img src="https://graph.org/file/fdc47d088a48eb981c713.jpg" alt="Kaleb Vincent">
+<img src="https://insights.pecb.com/wp-content/uploads/2020/09/security-chain-link-1170x600.jpg" alt="Kaleb Vincent">
 </p>
 
 <br>
@@ -73,8 +73,8 @@ I enjoy collaborating with other developers and learning from their experiences.
 
 You can connect with me on various platforms:
 
-- [![telegram](https://img.shields.io/badge/Kaleb-Telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/tonpseudo)
-- [![gmail](https://img.shields.io/badge/Kaleb-Gmail-red?style=for-the-badge&logo=gmail)](mailto:tonemail@example.com)
+- [![telegram](https://img.shields.io/badge/Kaleb-Telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/hyoshcoder)
+- [![gmail](https://img.shields.io/badge/Kaleb-Gmail-red?style=for-the-badge&logo=gmail)](mailto:tonemail@gmail.com)
 
 <br>
 
