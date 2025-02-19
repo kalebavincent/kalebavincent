@@ -1,81 +1,81 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=DC143C&center=true&lines=Welcome+to+My+GitHub+Profile;Exploring+the+world+of+code;Sharing+my+projects+and+learnings;Enjoy+your+stay!&width=600&height=180">
+  <img src="https://readme-typing-svg.herokuapp.com?color=DC143C&center=true&lines=ʙɪᴇɴᴠᴇɴᴜᴇ+ꜱᴜʀ+ᴍᴏɴ+ᴘʀᴏꜰɪʟ+ɢɪᴛʜᴜʙ;ᴇxᴘʟᴏʀᴏɴꜱ+ʟᴇ+ᴍᴏɴᴅᴇ+ᴅᴜ+ᴄᴏᴅᴇ;ᴘᴀʀᴛᴀɢᴇ+ᴅᴇ+ᴍᴇꜱ+ᴘʀᴏᴊᴇᴛꜱ+ᴇᴛ+ᴀᴘᴘʀᴇɴᴛɪꜱꜱᴀɢᴇꜱ;ᴘʀᴏꜰɪᴛᴇᴢ+ᴅᴇ+ᴠᴏᴛʀᴇ+ᴠɪꜱɪᴛᴇ!&width=600&height=180">
 </p>
 
 <h2 align="center">
-    ──「 HYOSH CODER 」──
+    ──「 ʜʏᴏꜱʜ ᴄᴏᴅᴇʀ 」──
 </h2>
 
 <div style="display: flex;">
   <div style="flex: 1;">
 
-# Hi there! 👋
+# ʙᴏɴᴊᴏᴜʀ ! 👋
 
-Welcome to my GitHub profile! I'm a passionate developer who loves creating impactful and innovative projects. 
-I enjoy exploring new technologies and sharing my learnings with the community. 😊
+ʙɪᴇɴᴠᴇɴᴜᴇ ꜱᴜʀ ᴍᴏɴ ᴘʀᴏꜰɪʟ ɢɪᴛʜᴜʙ ! ᴊᴇ ꜱᴜɪꜱ ᴜɴ ᴅéᴠᴇʟᴏᴘᴘᴇᴜʀ ᴘᴀꜱꜱɪᴏɴɴé Qᴜɪ ᴀᴅᴏʀᴇ ᴄʀéᴇʀ ᴅᴇꜱ ᴘʀᴏᴊᴇᴛꜱ ɪᴍᴘᴀᴄᴛᴀɴᴛꜱ ᴇᴛ ɪɴɴᴏᴠᴀɴᴛꜱ. 
+ᴊ'ᴀɪᴍᴇ ᴇxᴘʟᴏʀᴇʀ ᴅᴇꜱ ɴᴏᴜᴠᴇʟʟᴇꜱ ᴛᴇᴄʜɴᴏʟᴏɢɪᴇꜱ ᴇᴛ ᴘᴀʀᴛᴀɢᴇʀ ᴍᴇꜱ ᴀᴘᴘʀᴇɴᴛɪꜱꜱᴀɢᴇꜱ ᴀᴠᴇᴄ ʟᴀ ᴄᴏᴍᴍᴜɴᴀᴜᴛé. 😊
 
-Here's a bit more about me:
+ᴠᴏɪᴄɪ ᴜɴ ᴘᴇᴜ ᴘʟᴜꜱ ꜱᴜʀ ᴍᴏɪ :
 <p align="center">
 <img src="https://insights.pecb.com/wp-content/uploads/2020/09/security-chain-link-1170x600.jpg" alt="Kaleb Vincent">
 </p>
 
 <br>
 
-## 🌟 About Me
+## 🌟 ᴀ ᴘʀᴏᴘᴏꜱ ᴅᴇ ᴍᴏɪ
 
-- 💻 I specialize in **Python** and **JavaScript**, but I enjoy exploring other technologies and languages as well.
-- 🚀 I'm always eager to learn new things and take on new challenges.
-- 🎓 I believe in the power of knowledge-sharing and open source.
+- 💻 ᴊᴇ ᴍᴇ ꜱᴘéᴄɪᴀʟɪꜱᴇ ᴇɴ **ᴘʏᴛʜᴏɴ** ᴇᴛ **ᴊᴀᴠᴀꜱᴄʀɪᴘᴛ**, ᴍᴀɪꜱ ᴊ'ᴀɪᴍᴇ ᴀᴜꜱꜱɪ ᴇxᴘʟᴏʀᴇʀ ᴅ'ᴀᴜᴛʀᴇꜱ ᴛᴇᴄʜɴᴏʟᴏɢɪᴇꜱ ᴇᴛ ʟᴀɴɢᴀɢᴇꜱ.
+- 🚀 ᴊᴇ ꜱᴜɪꜱ ᴛᴏᴜᴊᴏᴜʀꜱ ᴘʀêᴛ à ᴀᴘᴘʀᴇɴᴅʀᴇ ᴅᴇꜱ ɴᴏᴜᴠᴇʟʟᴇꜱ ᴄʜᴏꜱᴇꜱ ᴇᴛ à ʀᴇʟᴇᴠᴇʀ ᴅᴇꜱ ɴᴏᴜᴠᴇᴀᴜx ᴅéꜰɪꜱ.
+- 🎓 ᴊᴇ ᴄʀᴏɪꜱ ᴇɴ ʟᴀ ᴘᴜɪꜱꜱᴀɴᴄᴇ ᴅᴜ ᴘᴀʀᴛᴀɢᴇ ᴅᴇꜱ ᴄᴏɴɴᴀɪꜱꜱᴀɴᴄᴇꜱ ᴇᴛ ᴅᴇ ʟ'ᴏᴘᴇɴ ꜱᴏᴜʀᴄᴇ.
 
-## 🛠️ Tech Stack
+## 🛠️ ꜱᴛᴀᴄᴋ ᴛᴇᴄʜɴɪQᴜᴇ
 
-- **Languages:** Python, JavaScript, HTML, CSS
-- **Frameworks:** Django, Flask, React
-- **Tools:** Git, Docker, VS Code
-- **Databases:** PostgreSQL, MongoDB
+- **ʟᴀɴɢᴀɢᴇꜱ :** ᴘʏᴛʜᴏɴ, ᴊᴀᴠᴀꜱᴄʀɪᴘᴛ, ʜᴛᴍʟ, ᴄꜱꜱ
+- **ꜰʀᴀᴍᴇᴡᴏʀᴋꜱ :** ᴅᴊᴀɴɢᴏ, ꜰʟᴀꜱᴋ, ʀᴇᴀᴄᴛ
+- **ᴏᴜᴛɪʟꜱ :** ɢɪᴛ, ᴅᴏᴄᴋᴇʀ, ᴠꜱ ᴄᴏᴅᴇ
+- **ʙᴀꜱᴇꜱ ᴅᴇ ᴅᴏɴɴéᴇꜱ :** ᴘᴏꜱᴛɢʀᴇꜱQʟ, ᴍᴏɴɢᴏᴅʙ
 
-## Here are some of the projects I've worked on
+## ᴠᴏɪᴄɪ QᴜᴇʟQᴜᴇꜱ ᴘʀᴏᴊᴇᴛꜱ ꜱᴜʀ ʟᴇꜱQᴜᴇʟꜱ ᴊ'ᴀɪ ᴛʀᴀᴠᴀɪʟʟé
 
-- ❤️ [Auto renamer bot](https://github.com/kalebavincent/Projet1) - A ....
-- 📽️ [Renamer bot](https://github.com/kalebavincent/Projet2) - A ....
-- 📁 [Auto filter bot + Extra Mode](https://github.com/kalebavincent/Projet3) - A ....
+- ❤️ [ᴀᴜᴛᴏ ʀᴇɴᴀᴍᴇʀ ʙᴏᴛ](https://github.com/kalebavincent/Projet1) - ᴜɴ ʙᴏᴛ Qᴜɪ...
+- 📽️ [ʀᴇɴᴀᴍᴇʀ ʙᴏᴛ](https://github.com/kalebavincent/Projet2) - ᴜɴ ʙᴏᴛ Qᴜɪ...
+- 📁 [ᴀᴜᴛᴏ ꜰɪʟᴛʀᴇ ʙᴏᴛ + ᴇxᴛʀᴀ ᴍᴏᴅᴇ](https://github.com/kalebavincent/Projet3) - ᴜɴ ʙᴏᴛ Qᴜɪ...
 
-  _and more!_
+  _ᴇᴛ ʙɪᴇɴ ᴘʟᴜꜱ ᴇɴᴄᴏʀᴇ !_
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=kalebavincent)](https://github.com/kalebavincent/github-readme-stats)
+[![ᴍᴇꜱ ꜱᴛᴀᴛɪꜱᴛɪQᴜᴇꜱ ɢɪᴛʜᴜʙ](https://github-readme-stats.vercel.app/api?username=kalebavincent)](https://github.com/kalebavincent/github-readme-stats)
 
 ---
 
-## Here is tech stacks I know and use 🛠
+## ᴠᴏɪᴄɪ ʟᴇꜱ ᴛᴇᴄʜɴᴏʟᴏɢɪᴇꜱ Qᴜᴇ ᴊᴇ ᴄᴏɴɴᴀɪꜱ ᴇᴛ ᴜᴛɪʟɪꜱᴇ 🛠
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalebavincent&langs_count=10" align="right" width="300px">
 
-![Python](https://img.shields.io/badge/-Python-2f1a47?style=flat&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-2f1a47?style=flat&logo=javascript)&nbsp;
+![ᴘʏᴛʜᴏɴ](https://img.shields.io/badge/-ᴘʏᴛʜᴏɴ-2f1a47?style=flat&logo=python)&nbsp;
+![ᴊᴀᴠᴀꜱᴄʀɪᴘᴛ](https://img.shields.io/badge/-ᴊᴀᴠᴀꜱᴄʀɪᴘᴛ-2f1a47?style=flat&logo=javascript)&nbsp;
 
-![HTML5](https://img.shields.io/badge/-HTML5-2f1a47?style=flat&logo=html5)&nbsp;  
-![CSS3](https://img.shields.io/badge/-CSS3-2f1a47?style=flat&logo=css3&logoColor=039be5)&nbsp;
-![React](https://img.shields.io/badge/-React-2f1a47?style=flat&logo=react)&nbsp;
-![Node.JS](https://img.shields.io/badge/-Node.JS-2f1a47?style=flat&logo=node.js)&nbsp;
+![ʜᴛᴍʟ5](https://img.shields.io/badge/-ʜᴛᴍʟ5-2f1a47?style=flat&logo=html5)&nbsp;  
+![ᴄꜱꜱ3](https://img.shields.io/badge/-ᴄꜱꜱ3-2f1a47?style=flat&logo=css3&logoColor=039be5)&nbsp;
+![ʀᴇᴀᴄᴛ](https://img.shields.io/badge/-ʀᴇᴀᴄᴛ-2f1a47?style=flat&logo=react)&nbsp;
+![ɴᴏᴅᴇ.ᴊꜱ](https://img.shields.io/badge/-ɴᴏᴅᴇ.ᴊꜱ-2f1a47?style=flat&logo=node.js)&nbsp;
 
-![Git](https://img.shields.io/badge/-Git-2f1a47?style=flat&logo=git)&nbsp;
-![Github](https://img.shields.io/badge/-Github-2f1a47?style=flat&logo=github)&nbsp;
+![ɢɪᴛ](https://img.shields.io/badge/-ɢɪᴛ-2f1a47?style=flat&logo=git)&nbsp;
+![ɢɪᴛʜᴜʙ](https://img.shields.io/badge/-ɢɪᴛʜᴜʙ-2f1a47?style=flat&logo=github)&nbsp;
 
-![Profile counter](https://moe-counter.glitch.me/get/@kalebavincent)
+![ᴄᴏᴍᴘᴛᴇᴜʀ ᴅᴇ ᴘʀᴏꜰɪʟ](https://moe-counter.glitch.me/get/@kalebavincent)
 
-### 🤝 Collaboration
+### 🤝 ᴄᴏʟʟᴀʙᴏʀᴀᴛɪᴏɴ
 
-I enjoy collaborating with other developers and learning from their experiences. If you have any exciting projects or ideas, feel free to reach out. Let's create something awesome together!
-
-<br>
-
-### 📫 Contact Me
-
-You can connect with me on various platforms:
-
-- [![telegram](https://img.shields.io/badge/Kaleb-Telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/hyoshcoder)
-- [![gmail](https://img.shields.io/badge/Kaleb-Gmail-red?style=for-the-badge&logo=gmail)](mailto:tonemail@gmail.com)
+ᴊ'ᴀɪᴍᴇ ᴄᴏʟʟᴀʙᴏʀᴇʀ ᴀᴠᴇᴄ ᴅ'ᴀᴜᴛʀᴇꜱ ᴅéᴠᴇʟᴏᴘᴘᴇᴜʀꜱ ᴇᴛ ᴀᴘᴘʀᴇɴᴅʀᴇ ᴅᴇ ʟᴇᴜʀꜱ ᴇxᴘéʀɪᴇɴᴄᴇꜱ. ꜱɪ ᴠᴏᴜꜱ ᴀᴠᴇᴢ ᴅᴇꜱ ᴘʀᴏᴊᴇᴛꜱ ᴏᴜ ᴅᴇꜱ ɪᴅéᴇꜱ ᴇxᴄɪᴛᴀɴᴛꜱ, ɴ'ʜéꜱɪᴛᴇᴢ ᴘᴀꜱ à ᴍᴇ ᴄᴏɴᴛᴀᴄᴛᴇʀ. ᴄʀéᴏɴꜱ QᴜᴇʟQᴜᴇ ᴄʜᴏꜱᴇ ᴅ'ᴇxᴛʀᴀᴏʀᴅɪɴᴀɪʀᴇ ᴇɴꜱᴇᴍʙʟᴇ !
 
 <br>
 
-Thanks for visiting my profile! Feel free to explore my repositories, and don't forget to leave a star ⭐️ if you find something interesting!
+### 📫 ᴄᴏɴᴛᴀᴄᴛᴇᴢ-ᴍᴏɪ
+
+ᴠᴏᴜꜱ ᴘᴏᴜᴠᴇᴢ ᴍᴇ ᴄᴏɴᴛᴀᴄᴛᴇʀ ꜱᴜʀ ᴅɪꜰꜰéʀᴇɴᴛᴇꜱ ᴘʟᴀᴛᴇꜰᴏʀᴍᴇꜱ :
+
+- [![ᴛᴇʟᴇɢʀᴀᴍ](https://img.shields.io/badge/ᴋᴀʟᴇʙ-ᴛᴇʟᴇɢʀᴀᴍ-ʙʟᴜᴇ?style=for-the-badge&logo=telegram)](https://t.me/hyoshcoder)
+- [![ɢᴍᴀɪʟ](https://img.shields.io/badge/ᴋᴀʟᴇʙ-ɢᴍᴀɪʟ-ʀᴏᴜɢᴇ?style=for-the-badge&logo=gmail)](mailto:vincentkaleba@gmail.com)
+
+<br>
+
+ᴍᴇʀᴄɪ ᴅ'ᴀᴠᴏɪʀ ᴠɪꜱɪᴛé ᴍᴏɴ ᴘʀᴏꜰɪʟ ! ɴ'ʜéꜱɪᴛᴇᴢ ᴘᴀꜱ à ᴇxᴘʟᴏʀᴇʀ ᴍᴇꜱ ᴅéᴘôᴛꜱ, ᴇᴛ ɴ'ᴏᴜʙʟɪᴇᴢ ᴘᴀꜱ ᴅᴇ ʟᴀɪꜱꜱᴇʀ ᴜɴᴇ éᴛᴏɪʟᴇ ⭐️ ꜱɪ ᴠᴏᴜꜱ ᴛʀᴏᴜᴠᴇᴢ QᴜᴇʟQᴜᴇ ᴄʜᴏꜱᴇ ᴅ'ɪɴᴛéʀᴇꜱꜱᴀɴᴛ !
